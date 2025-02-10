@@ -7,21 +7,15 @@
 </p>
 
 <!-- About Me Section -->
-<table>
-<tr>
-<td width="60%">
-<ul>
-  <li>🌱 I’m currently learning <strong>Data Science</strong></li>
-  <li>💬 Ask me about <strong>Python, SQL, Scikit-learn, Sentiment Analysis, HTML, CSS</strong></li>
-  <li>📫 How to reach me <strong>manjarisaxena2430@gmail.com</strong></li>
-  <li>⚡ Fun fact <strong>I think I am funny 😆</strong></li>
-</ul>
-</td>
-<td width="40%">
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif" width="300" height="200" />
-</td>
-</tr>
-</table>
+- 🌱 I’m currently learning **Data Science**  
+- 💬 Ask me about **Python, SQL, Scikit-learn, Sentiment Analysis, HTML, CSS**  
+- 📫 How to reach me **manjarisaxena2430@gmail.com**  
+- ⚡ Fun fact **I think I am funny 😆**  
+
+<!-- GIF (Now placed separately without table) -->
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif" width="400" height="250" />
+</p>
 
 ## **📌 Connect with me:**
 <p align="left">
