@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjarisaxena&label=Profile%20views&color=0e75b6&style=flat" alt="manjarisaxena" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjarisaxena" alt="manjarisaxena" /></a> </p>
-
 - 🌱 I’m currently learning **data science**
 
 - 💬 Ask me about **Python, SQL,Scikit-learn, Sentiment Analysis , HTML, CSS**
@@ -26,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjarisaxena&show_icons=true&locale=en" alt="manjarisaxena" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjarisaxena&" alt="manjarisaxena" /></p>
--->
