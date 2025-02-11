@@ -1,4 +1,4 @@
-<!-- Logo at the Top -->
+
 <p align="center">
   <img src="https://github.com/manjarisaxena/manjarisaxena/blob/main/logo.png" width="100%" alt="Manjari Saxena Logo">
 </p>
