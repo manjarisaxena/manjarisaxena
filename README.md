@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/manjarisaxena/manjarisaxena/blob/main/logo.png" width="100%" alt="Manjari Saxena Logo">
+  <img src="https://github.com/manjarisaxena/manjarisaxena/blob/main/banner.png" width="100%" alt="Manjari Saxena Logo">
 </p>
 
 <h1 align="center">Hi 👋, I'm Manjari Saxena</h1>
